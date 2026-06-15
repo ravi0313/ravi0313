@@ -1,4 +1,4 @@
-# Hello, I'm Your Name! 👋
+# Hello, I'm Ravi Teja Malla! 👋
 
 **Android Developer | Kotlin Enthusiast | DSA Practitioner**
 
@@ -73,10 +73,9 @@ Track my progress through various DSA topics:
 
 ## 🤝 Let's Connect
 
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- 🐦 [Twitter](https://twitter.com/YOUR_HANDLE)
-- ✉️ Email: your.email@example.com
+- 🐙 [GitHub](https://github.com/ravi0313)
+- 💼 [LinkedIn](https://linkedin.com/in/ravitejamalla)
+- ✉️ Email: ravitejamalla@gmail.com
 
 ---
 
