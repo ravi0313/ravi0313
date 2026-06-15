@@ -13,6 +13,11 @@ Master fundamental array operations and optimization techniques.
 1. 🔗 [Two Sum](./arrays/TwoSum.kt) - Find two numbers that add up to target
 2. 📈 [Max Subarray](./arrays/MaxSubarray.kt) - Find maximum sum of contiguous subarray
 3. 🪟 [Sliding Window](./arrays/SlidingWindow.kt) - Find max sum of subarray of size K
+4. 📊 [Prefix Sum](./arrays/PrefixSum.kt) - Build prefix sum array for range queries
+5. 🚩 [Dutch National Flag](./arrays/DutchNationalFlag.kt) - Sort 0s, 1s, 2s in single pass
+6. 💧 [Trapping Rain Water](./arrays/TrappingRainWater.kt) - Calculate water trapped between heights
+7. 🔢 [Product Except Self](./arrays/ProductExceptSelf.kt) - Product of all other elements without division
+8. 🔄 [Rotate Array](./arrays/RotateArray.kt) - Rotate array by K steps
 
 ---
 
