@@ -35,33 +35,6 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
-
----
-
-## 📋 Currently Practicing
-
-Track my progress through various DSA topics:
-
-- [x] Arrays
-- [x] Linked Lists
-- [x] Sorting Algorithms
-- [x] Trees & BST
-- [x] Searching Algorithms
-- [x] Stack & Queue
-- [ ] Advanced Graph Algorithms
-- [ ] String Algorithms
-- [ ] Bit Manipulation
-- [ ] System Design
-
----
-
 ## 📚 Learning Resources
 
 - [LeetCode](https://leetcode.com/) - Algorithm practice
