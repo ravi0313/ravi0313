@@ -12,13 +12,18 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 
 | Topic | Problems | Link |
 |-------|----------|------|
-| 📊 **Arrays** | Two Sum, Max Subarray, Sliding Window | [View →](./dsa-kotlin/#-arrays) |
+| 📊 **Arrays** | Two Sum, Max Subarray, Sliding Window, Prefix Sum, Dutch Flag, Trapping Rain Water, Product Except Self, Rotate | [View →](./dsa-kotlin/#-arrays) |
+| #️⃣ **Hashing** | Group Anagrams, Longest Consecutive, Subarray Sum K, Top K Frequent | [View →](./dsa-kotlin/#️⃣-hashing) |
 | 🔗 **Linked List** | Reverse, Cycle Detection, Merge | [View →](./dsa-kotlin/#-linked-list) |
-| 🌳 **Trees** | BST, Level Order, DFS Traversals | [View →](./dsa-kotlin/#-trees) |
+| 🌳 **Trees** | BST, Level Order, DFS, LCA, Validate, Depth, Diameter, Serialize, Symmetric | [View →](./dsa-kotlin/#-trees) |
 | 📈 **Sorting** | Bubble, Merge, Quick Sort | [View →](./dsa-kotlin/#-sorting) |
-| 🔍 **Searching** | Binary Search, Linear Search | [View →](./dsa-kotlin/#-searching) |
+| 🔍 **Searching** | Binary Search, Linear Search, Recursive Binary | [View →](./dsa-kotlin/#-searching) |
 | 📚 **Stack & Queue** | Array Stack, Linked List Queue | [View →](./dsa-kotlin/#-stack--queue) |
-| 💡 **Dynamic Programming** | Fibonacci, Knapsack, LCS | [View →](./dsa-kotlin/#-dynamic-programming) |
+| 🕸️ **Graphs** | BFS, DFS, Cycle Detection, Topological Sort, Dijkstra, Islands | [View →](./dsa-kotlin/#️-graphs) |
+| 💡 **Dynamic Programming** | Fibonacci, Knapsack, LCS, Coin Change, LIS, Edit Distance, Word Break, House Robber | [View →](./dsa-kotlin/#-dynamic-programming) |
+| 🔙 **Backtracking** | N-Queens, Sudoku, Permutations, Subsets, Word Search, Rat in Maze | [View →](./dsa-kotlin/#-backtracking) |
+| 🦋 **Kotlin Patterns** | Functional DSA, Extensions, Sealed Class Tree, Coroutine BFS | [View →](./dsa-kotlin/#-kotlin-patterns) |
+| 🎯 **Interview Patterns** | Two Pointers, Fast/Slow, Intervals, Cyclic Sort, Monotonic Stack, Top K | [View →](./dsa-kotlin/#-interview-patterns) |
 
 ---
 
