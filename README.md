@@ -1,74 +1,78 @@
-# Hey, I'm Ravi 👋
+# Hello, I'm Your Name! 👋
 
-**Android Developer** | Passionate about building scalable, cross-platform solutions
+**Android Developer | Kotlin Enthusiast | DSA Practitioner**
 
-Welcome to my corner of GitHub! I'm an Android Developer focused on modern backend systems, multiplatform development, and crafting elegant solutions with **Kotlin**, **KMP**, and **.NET**.
-
----
-
-## 🚀 About Me
-
-I'm an Android Developer with a deep passion for developing robust, high-performance applications. I specialize in building solutions that work seamlessly across multiple platforms while maintaining clean, maintainable code. I thrive in collaborative environments and enjoy tackling challenging architectural problems.
-
-## 💻 Tech Stack
-
-**Languages & Platforms:**
-- **Kotlin** - My go-to for JVM development and server-side applications
-- **Kotlin Multiplatform (KMP)** - Building shared code for iOS, Android, and web
-- **.NET** - Enterprise-grade backend solutions with C#
-- **AngularJS** - Frontend development and dynamic web applications
-
-**Core Competencies:**
-- Cross-platform development with Kotlin Multiplatform
-- Backend architecture and microservices (.NET ecosystem)
-- RESTful API design and implementation
-- Object-oriented and functional programming paradigms
-- Clean code principles and design patterns
-
-**Tools & Technologies:**
-- Git, Docker, CI/CD pipelines
-- Gradle, Maven, NuGet
-- SQL & NoSQL databases
-- Cloud platforms (AWS, Azure)
-
-## 🎯 What I Do
-
-- 🏗️ Design and implement scalable backend systems
-- 📱 Build cross-platform mobile & web applications with KMP
-- 🔧 Architect microservices using .NET technologies
-- 💡 Mentor junior developers and contribute to team growth
-- 🤖 Optimize performance and improve code quality
-
-## 📊 GitHub Stats
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi0313&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi0313&layout=compact&theme=dark)
-
-## 🌟 Open to Collaboration
-
-I'm always excited to:
-- Collaborate on **Kotlin** and **KMP** projects
-- Contribute to **open-source** initiatives
-- Discuss architecture and design patterns
-- Help teams scale their backend infrastructure
-
-## 💬 Let's Connect
-
-Reach out if you'd like to collaborate, discuss tech, or just chat about software engineering!
-
-- **GitHub:** [@ravi0313](https://github.com/ravi0313)
-- **Email:** [ravitejamalla2318@gmail.com](#)
-
-## 🔥 Currently Exploring
-
-- 🔭 Advanced KMP patterns for production applications
-- 🌱 Deep diving into .NET performance optimization
-- 💬 Always happy to discuss Kotlin, .NET, and cross-platform architecture
-- ⚡ Fun fact: I believe great code is as much about clarity as it is about functionality
+Welcome to my GitHub! I'm passionate about building robust Android applications and mastering Data Structures & Algorithms using Kotlin. This repository showcases my DSA journey with comprehensive solutions.
 
 ---
 
-**Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on something interesting.** 🚀
+## 🚀 DSA with Kotlin
 
-*"Code is poetry written for machines, but read by humans." — Keep it clean, keep it simple.*
+A comprehensive collection of Data Structures and Algorithms problems solved in Kotlin with clean, idiomatic code.
+
+| Topic | Problems | Link |
+|-------|----------|------|
+| 📊 **Arrays** | Two Sum, Max Subarray, Sliding Window | [View →](./dsa-kotlin/#-arrays) |
+| 🔗 **Linked List** | Reverse, Cycle Detection, Merge | [View →](./dsa-kotlin/#-linked-list) |
+| 🌳 **Trees** | BST, Level Order, DFS Traversals | [View →](./dsa-kotlin/#-trees) |
+| 📈 **Sorting** | Bubble, Merge, Quick Sort | [View →](./dsa-kotlin/#-sorting) |
+| 🔍 **Searching** | Binary Search, Linear Search | [View →](./dsa-kotlin/#-searching) |
+| 📚 **Stack & Queue** | Array Stack, Linked List Queue | [View →](./dsa-kotlin/#-stack--queue) |
+| 💡 **Dynamic Programming** | Fibonacci, Knapsack, LCS | [View →](./dsa-kotlin/#-dynamic-programming) |
+
+---
+
+## 🛠️ Tech Stack
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
+---
+
+## 📋 Currently Practicing
+
+Track my progress through various DSA topics:
+
+- [x] Arrays
+- [x] Linked Lists
+- [x] Sorting Algorithms
+- [x] Trees & BST
+- [x] Searching Algorithms
+- [x] Stack & Queue
+- [ ] Advanced Graph Algorithms
+- [ ] String Algorithms
+- [ ] Bit Manipulation
+- [ ] System Design
+
+---
+
+## 📚 Learning Resources
+
+- [LeetCode](https://leetcode.com/) - Algorithm practice
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - DSA concepts
+- [Kotlin Documentation](https://kotlinlang.org/docs/) - Language reference
+- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/) - Algorithm theory
+
+---
+
+## 🤝 Let's Connect
+
+- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- 🐦 [Twitter](https://twitter.com/YOUR_HANDLE)
+- ✉️ Email: your.email@example.com
+
+---
+
+**Made with ❤️ in Kotlin**
