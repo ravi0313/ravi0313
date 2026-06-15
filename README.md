@@ -1,14 +1,14 @@
 # Hey, I'm Ravi 👋
 
-**Software Engineer II** | Passionate about building scalable, cross-platform solutions
+**Android Developer** | Passionate about building scalable, cross-platform solutions
 
-Welcome to my corner of GitHub! I'm a Software Engineer focused on modern backend systems, multiplatform development, and crafting elegant solutions with **Kotlin**, **KMP**, and **.NET**.
+Welcome to my corner of GitHub! I'm an Android Developer focused on modern backend systems, multiplatform development, and crafting elegant solutions with **Kotlin**, **KMP**, and **.NET**.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer II with a deep passion for developing robust, high-performance applications. I specialize in building solutions that work seamlessly across multiple platforms while maintaining clean, maintainable code. I thrive in collaborative environments and enjoy tackling challenging architectural problems.
+I'm an Android Developer with a deep passion for developing robust, high-performance applications. I specialize in building solutions that work seamlessly across multiple platforms while maintaining clean, maintainable code. I thrive in collaborative environments and enjoy tackling challenging architectural problems.
 
 ## 💻 Tech Stack
 
@@ -58,7 +58,7 @@ I'm always excited to:
 Reach out if you'd like to collaborate, discuss tech, or just chat about software engineering!
 
 - **GitHub:** [@ravi0313](https://github.com/ravi0313)
-- **Email:** [your.email@example.com](#)
+- **Email:** [ravitejamalla2318@gmail.com](#)
 
 ## 🔥 Currently Exploring
 
